@@ -13,3 +13,4 @@ Option Scalping Master- The tool's instant order execution feature ensures that 
 
 5. **API Integration:** Seamlessly integrated with Zerodha Kite API, the tool ensures real-time connectivity and accurate execution of your trades.
 
+![image](https://github.com/SachinSharma48/Option_Trading_Scalping/assets/140776112/cd8accb5-5024-4bad-a7d1-58f26783e472)
